@@ -4,6 +4,8 @@
 ## CREACIÓN DE ASIGNACIÓN EN GITHUB CLASSROOM
 Acceso a Github classroom: (https://classroom.github.com/classrooms/149103862-ull-mfp-aet-2324-alu0100833485)
 
+Puedes aceptar la tarea en el siguiente enlace: (https://classroom.github.com/a/Tcy4-JKy)
+
 ## Use this extension
 
 This repository can be added as an **extension** in MakeCode.
