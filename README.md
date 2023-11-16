@@ -17,3 +17,5 @@ Para ello se ha modificado el makecode original:
 ## EVIDENCIAS DE LA ASIGNACIÓN Y NOTIFICACIÓN AL ALUMNADO DE LA ORGANIZACIÓN
 
 
+Notificación a los alumnos de la asignación: (https://github.com/ULL-MFP-AET-2324/equipos-eq-david-joana/issues/6)
+
