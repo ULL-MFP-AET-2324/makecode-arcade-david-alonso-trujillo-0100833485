@@ -10,25 +10,10 @@ Puedes aceptar la tarea en el siguiente enlace: (https://classroom.github.com/a/
 
 Este es el repo de la tarea en mi [Organización](https://github.com/ull-mfp-aet-2324-alu0100833485): (https://github.com/ull-mfp-aet-2324-alu0100833485/makecode-arcade-david-alonso-trujillo-0100833485-template)
 
+Para ello se ha modificado el makecode original:
+- Cambiando los iconos ( Ahora un tiburón y pato)
+- Haciendo que cuando se solapen los objetos suene una señal
 
-## Edit this extension
+## EVIDENCIAS DE LA ASIGNACIÓN Y NOTIFICACIÓN AL ALUMNADO DE LA ORGANIZACIÓN
 
-To edit this repository in MakeCode.
-
-* open https://arcade.makecode.com/
-* click on **Import** then click on **Import URL**
-* paste the repository URL and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://raw.githubusercontent.com/ULL-MFP-AET/makecode-template/master/.makecode/blocks.png)
-
-## Supported targets
-
-* for PXT/arcade
-* for PXT/arcade
-(The metadata above is needed for package search.)
 
