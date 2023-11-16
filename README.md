@@ -8,7 +8,7 @@ Puedes aceptar la tarea en el siguiente enlace: (https://classroom.github.com/a/
 
 ## CREACIÓN DE TEMPLATE PARA LA ASIGNACIÓN INCLUYENDO NUEVO PROYECTO DE MAKECODE
 
-Este es el repo de la tarea en mi [Organización]((https://github.com/ull-mfp-aet-2324-alu0100833485): (https://github.com/ull-mfp-aet-2324-alu0100833485/makecode-arcade-david-alonso-trujillo-0100833485-template)
+Este es el repo de la tarea en mi [Organización](https://github.com/ull-mfp-aet-2324-alu0100833485): (https://github.com/ull-mfp-aet-2324-alu0100833485/makecode-arcade-david-alonso-trujillo-0100833485-template)
 
 
 ## Edit this extension
